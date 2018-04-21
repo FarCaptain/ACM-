@@ -1,15 +1,6 @@
 > 给一nXn的字母方阵，内可能蕴含多个“yizhong”单词。单词在方阵中是沿着同一方向连续摆放的。摆放可沿着8个方向的任一方向，同一单词摆放时不再改变方向，单词与单词之间可以交叉,因此有可能共用字母。输出时，将不是单词的字母用“*”代替，以突出显示单词。例如：
 
-<code class="language-cpp hljs">输入（左侧）：                 输出（右侧）：
-    <span class="hljs-number">8</span> 
-    qyizhong              *yizhong
-    gydthkjy              gy******
-    nwidghji              n*i*****
-    orbzsfgz              o**z****
-    hhgrhwth              h***h***
-    zzzzzozo              z****o**
-    iwdfrgng              i*****n*
-    yyyygggg              y******g</code>
+![CMmM9O.png](https://s1.ax1x.com/2018/04/21/CMmM9O.png)
 	
 
 这道题就是暴搜，但是如果实现思路太过暴力，代码可能会太长写起来很慢。这道题讲讲实现：

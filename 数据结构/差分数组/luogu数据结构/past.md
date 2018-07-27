@@ -1,3 +1,6 @@
+
+WA，读入那里交上去莫名出错
+``` cpp
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
@@ -44,3 +47,6 @@ int main()
     }
     return 0;
 }
+```
+
+

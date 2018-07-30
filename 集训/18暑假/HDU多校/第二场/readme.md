@@ -1,3 +1,4 @@
+先说
 ## 1007 Naive Operations
 [HDU 6316 ][1]
 原来这才是数据结构。
@@ -117,3 +118,5 @@ int main()
 
 
   [1]: http://hdu.hustoj.com/showproblem.php?pid=6315
+  
+  
